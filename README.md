@@ -35,3 +35,15 @@ streamlit run app.py
 ## Data Sources
 - NBA stats via [nba_api](https://github.com/swar/nba_api)
 - MVP history scraped from [Basketball Reference](https://www.basketball-reference.com)
+
+## Screenshots
+
+![MVP vs Runner-Up 40 Years of Stats](screenshots/MVP%20vs.%20Runner-Up%20(40%20Years%20of%20Stats).png)
+![Screenshot 2](screenshots/Screenshot%202026-03-23%20203527.png)
+![Screenshot 3](screenshots/Screenshot%202026-03-23%20203539.png)
+![Screenshot 4](screenshots/Screenshot%202026-03-23%20203551.png)
+![Screenshot 5](screenshots/Screenshot%202026-03-23%20203603.png)
+![Screenshot 6](screenshots/Screenshot%202026-03-23%20203620.png)
+![Screenshot 7](screenshots/Screenshot%202026-03-23%20203652.png)
+![Screenshot 8](screenshots/Screenshot%202026-03-23%20203707.png)
+![Screenshot 9](screenshots/Screenshot%202026-03-23%20203720.png)
