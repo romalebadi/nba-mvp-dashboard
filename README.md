@@ -1,4 +1,4 @@
-# NBA MVP Dashboard
+# NBA MVP vs. Runner-Up Dashboard
 
 An interactive dashboard comparing NBA MVP and runner-up stats over the past 40+ years.
 
